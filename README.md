@@ -14,7 +14,7 @@ This app allows users to search for movies and save them to their own personal l
 - Heroku
 
 
-## Screenshot
+## Screenshots
 
 <img width="1707" alt="Screenshot 2022-11-17 at 19 02 57" src="https://user-images.githubusercontent.com/105763252/202608879-bebff230-1835-4a80-9911-c9fca78ec283.png">
 
