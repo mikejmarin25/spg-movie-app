@@ -12,7 +12,8 @@ This app allows users to search for movies and save them to their own personal l
 - Node.js
 - Express.js
 - Heroku
-- 
+
+
 ## Screenshot
 
 <img width="1707" alt="Screenshot 2022-11-17 at 19 02 57" src="https://user-images.githubusercontent.com/105763252/202608879-bebff230-1835-4a80-9911-c9fca78ec283.png">
@@ -34,13 +35,14 @@ This app allows users to search for movies and save them to their own personal l
 - cd out of server and cd into client 
 - run npm i followed by npm start to get the client up and running 
 
+
 ## Deployed Application
 https://single-page-app-project-3.herokuapp.com/
 
 
 ## Github Repo
-https://github.com/laurenp305/spg-movie-app (please refer to the develop branch)
+https://github.com/mikejmarin25/spg-movie-app 
 
 
 ## Contribution & Contact
-Project completed by Mike, Lauren, & Kamal. Reach out to us through this repo if you have any questions!
+Project completed by Mike Marin, Lauren, & Kamal. Reach out to us through this repo if you have any questions!
