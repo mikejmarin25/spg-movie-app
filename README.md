@@ -29,12 +29,13 @@ This app allows users to search for movies and save them to their own personal l
 
 
 ## To Run Application
-- Start your local instance of MongoDB, this is where the user information is stored
-- cd into server, run npm -i followed by npm start
+- Start your local instance of MongoDB
+- This is where the user information is stored
+- Navigate to both the client and the server and download dependencies with nmp -i
+- Once the dependencies are installed, cd into server and run npm start
 - This will startup the Apollo Server
-- cd out of server and cd into client 
-- run npm i followed by npm start to get the client up and running 
-
+- In a new terminal window, cd into client and run npm start
+- This will boot up the front end react UI
 
 ## Deployed Application
 https://single-page-app-project-3.herokuapp.com/
